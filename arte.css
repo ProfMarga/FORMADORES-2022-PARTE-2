@@ -1,0 +1,26 @@
+body{
+  font-family:Arial, Helvetica, sans-serif
+}
+h2{
+	text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagempintura{
+	height: 10%;
+  }
+h4{
+	text-align: center;
+}
+.imagemflores{
+  height: 200px;
+width: 1000px;
+}
+h4{
+  background-color:plum;
+}
+
