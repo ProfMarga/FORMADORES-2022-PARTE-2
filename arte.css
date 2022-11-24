@@ -34,6 +34,10 @@ h3{
   nav a{
     text-transform: uppercase;
     color: darkred;
+   nav{
+     position: absolute;
+     top:0
+     right:0
     font-weight: bold;
     font-size:22px;
     text-decoration: none;
